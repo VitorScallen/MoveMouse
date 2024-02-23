@@ -15,7 +15,7 @@ The `avoid_suspend.py` script uses system-level methods to send periodic command
 
 1. Clone this repository to your system.
 2. Install dependencies using `pip install -r requirements.txt`.
-3. Run the `avoid_suspend.py` script using Python.
+3. Run the `MoveMouse.py` script using Python.
 4. Adjust parameters as desired (such as the time interval).
 
 ## Notes
