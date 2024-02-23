@@ -4,7 +4,7 @@ This repository contains a simple Python script to prevent a notebook or desktop
 
 ## How It Works
 
-The `avoid_suspend.py` script uses system-level methods to send periodic commands that simulate activity, thus preventing the automatic suspension of the screen. It can be adjusted to set the interval between commands as needed.
+The `MoveMouse.py` script uses system-level methods to send periodic commands that simulate activity, thus preventing the automatic suspension of the screen. It can be adjusted to set the interval between commands as needed.
 
 ## Prerequisites
 
